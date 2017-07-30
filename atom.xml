@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-29T12:10:36.514Z</updated>
+  <updated>2017-07-28T18:09:12.351Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,26 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>标签测试文章</title>
-    <link href="http://yoursite.com/2017/07/29/hello/"/>
-    <id>http://yoursite.com/2017/07/29/hello/</id>
-    <published>2017-07-29T08:22:04.000Z</published>
-    <updated>2017-07-29T12:10:36.514Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
-    
-    
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
-    
-      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -59,6 +39,36 @@
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>标签测试文章</title>
+    <link href="http://yoursite.com/2015/01/21/hello/"/>
+    <id>http://yoursite.com/2015/01/21/hello/</id>
+    <published>2015-01-21T08:22:04.000Z</published>
+    <updated>2017-07-30T08:36:12.448Z</updated>
+    
+    <content type="html"><![CDATA[<p>FTP<br>www<br>ue5RMUgHD</p>
+<p>MySQL<br>root<br>d724570642<br>mysqladmin -uroot -pd724570642 password QING19950101</p>
+<p>wget <a href="http://www.banwagong.me/tools/ghost.sh" target="_blank" rel="external">http://www.banwagong.me/tools/ghost.sh</a> &amp;&amp; chmod 755 ghost.sh &amp;&amp; ./ghost.sh<br>输入脚本回车之后，看到上图，输入1回车直接安装。在安装过程中，需要输入一次域名，<br>绑定GHOST轻博客的，以及需要输入几次MYSQL密码，设置ROOT管理员密码和GHOST数据库密码。</p>
+<p>然后在地址栏输入：www.banwagong.me/ghost(换成我们的域名)</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;FTP&lt;br&gt;www&lt;br&gt;ue5RMUgHD&lt;/p&gt;
+&lt;p&gt;MySQL&lt;br&gt;root&lt;br&gt;d724570642&lt;br&gt;mysqladmin -uroot -pd724570642 password QING19950101&lt;/p&gt;
+&lt;p&gt;wget &lt;a href=&quot;h
+    
+    </summary>
+    
+      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
     
   </entry>
   
