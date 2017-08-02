@@ -4,9 +4,9 @@
   <subtitle>IT届的小学生</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://chenshiqing.cn/"/>
   <updated>2017-07-28T18:09:12.351Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://chenshiqing.cn/</id>
   
   <author>
     <name>Chen</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/07/29/hello-world/"/>
-    <id>http://yoursite.com/2017/07/29/hello-world/</id>
+    <link href="http://chenshiqing.cn/2017/07/29/hello-world/"/>
+    <id>http://chenshiqing.cn/2017/07/29/hello-world/</id>
     <published>2017-07-28T18:09:12.351Z</published>
     <updated>2017-07-28T18:09:12.351Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>标签测试文章</title>
-    <link href="http://yoursite.com/2015/01/21/hello/"/>
-    <id>http://yoursite.com/2015/01/21/hello/</id>
+    <link href="http://chenshiqing.cn/2015/01/21/hello/"/>
+    <id>http://chenshiqing.cn/2015/01/21/hello/</id>
     <published>2015-01-21T08:22:04.000Z</published>
     <updated>2017-07-30T08:36:12.448Z</updated>
     
@@ -63,12 +63,12 @@
     
     </summary>
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="Testing" scheme="http://chenshiqing.cn/categories/Testing/"/>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="http://chenshiqing.cn/tags/Testing/"/>
     
-      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+      <category term="Another Tag" scheme="http://chenshiqing.cn/tags/Another-Tag/"/>
     
   </entry>
   
